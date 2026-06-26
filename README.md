@@ -146,12 +146,6 @@ Cross-validation R² (Gradient Boosting, 5-fold): **~0.67 ± ~0.04**
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## 🙋 Author
 
 Made with ❤️ and data curiosity.  
